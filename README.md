@@ -8,4 +8,4 @@
 
 ### Today's challenge:
 
-- See ["`challenge1.cpp`"](https://github.com/crash0verrid3/ProgrammingLessons/blob/master/Challenge1.md)
+- See ["`challenge1.md`"](https://github.com/crash0verrid3/ProgrammingLessons/blob/master/Challenge1.md)
