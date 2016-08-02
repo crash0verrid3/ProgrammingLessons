@@ -1,5 +1,7 @@
 # ProgrammingLessons
 
+#### View good sites to use for research [here](https://github.com/crash0verrid3/ProgrammingLessons/blob/master/ResearchInfo.md).
+
 ### Today's lesson:
 
 - Basic programming concepts
