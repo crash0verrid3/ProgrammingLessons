@@ -2,7 +2,7 @@
 
 View good sites to use for research [here](https://github.com/crash0verrid3/ProgrammingLessons/blob/master/ResearchInfo.md).
 
-View the lessons in Gliffy [here](https://chrome.google.com/webstore/detail/gliffy-diagrams/bhmicilclplefnflapjmnngmkkkkpfad?hl=en).
+View the lessons in Gliffy [here](https://chrome.google.com/webstore/detail/gliffy-diagrams/bhmicilclplefnflapjmnngmkkkkpfad?hl=en) and download them [here](https://github.com/crash0verrid3/ProgrammingLessons/blob/master/lessons.md).
 ### Today's lesson:
 
 - Basic programming concepts
