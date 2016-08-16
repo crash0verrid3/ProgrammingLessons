@@ -1,0 +1,17 @@
+!SESSION 2016-08-16 06:46:25.031 -----------------------------------------------
+eclipse.buildId=4.5.1.M20150904-0015
+java.version=1.8.0_101
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.cpp.product -data C:\Users\Alex Anderson\Documents\GitHub\ProgrammingLessons\eclipse-workspace -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-08-16 06:47:16.864
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Alex Anderson'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.cdt.core 1 0 2016-08-16 06:48:06.724
+!MESSAGE Indexed 'HelloWorld' (1 sources, 96 headers) in 8.76 sec: 7,617 declarations; 13,723 references; 0 unresolved inclusions; 0 syntax errors; 2 unresolved names (0.0094%)
