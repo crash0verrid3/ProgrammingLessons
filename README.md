@@ -19,4 +19,4 @@ View the lessons in Gliffy [here](https://chrome.google.com/webstore/detail/glif
 
 ### Today's challenge:
 
-- See ["`challenge2.md`"](https://github.com/crash0verrid3/ProgrammingLessons/blob/master/Challenge2.md)
+- See "`[challenge2.md]`"(https://github.com/crash0verrid3/ProgrammingLessons/blob/master/Challenge2.md)
