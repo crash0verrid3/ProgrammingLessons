@@ -2,7 +2,7 @@
 
 Download the MinGW GCC compiler [here](http://74.199.24.237/mingw-get-setup.exe).
 
-Download Eclipse Mars 1:
+Download Eclipse Mars 1 for Windows:
 - [32-bit](http://74.199.24.237/eclipse-cpp-mars-1-win32.zip)
 - [64-bit](http://74.199.24.237/eclipse-cpp-mars-1-win32-x86_64.zip)
 
