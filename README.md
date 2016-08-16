@@ -1,6 +1,6 @@
 # Programming Lessons
 
-Download the MingW compiler [here](http://74.199.24.237/mingw-get-setup.exe).
+Download the MinGW GCC compiler [here](http://74.199.24.237/mingw-get-setup.exe).
 
 Download Eclipse Mars 1:
 - [32-bit](http://74.199.24.237/eclipse-cpp-mars-1-win32.zip)
